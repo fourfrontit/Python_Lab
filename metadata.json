@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Python Playground",
+  "description": "An interactive WebAssembly-powered Python playground and learning app optimized for mobile devices and static hosting such as GitHub Pages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
