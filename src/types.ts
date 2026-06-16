@@ -12,6 +12,7 @@ export interface Chapter {
   instructions: string[];
   expectedOutputSnippet: string;
   difficulty: "Beginner" | "Intermediate" | "General";
+  detailedNotes?: string; // Long-form beginner-friendly notes for easy learning
 }
 
 export interface ConsoleLine {
